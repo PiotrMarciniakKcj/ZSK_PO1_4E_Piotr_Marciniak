@@ -1,4 +1,4 @@
-namespace Project01UI
+namespace Projekt01UI
 {
     internal static class Program
     {
