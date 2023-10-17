@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net7.0</TargetFramework>
@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Project01.shared\Project01.shared.csproj" />
+    <ProjectReference Include="..\Project01.shared\Project01.Shared.csproj" />
   </ItemGroup>
 
 </Project>

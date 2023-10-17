@@ -8,6 +8,10 @@ namespace Project01.shared.Entities
 {
     internal class TextAnalyzeResult
     {
-       
+        public string? textLength { get; set; }
+        public bool? containsLetters { get; set; }
+        public bool? containsNumbers { get; set; }
+        public bool? containsSymbols { get; set; }
+
     }
 }

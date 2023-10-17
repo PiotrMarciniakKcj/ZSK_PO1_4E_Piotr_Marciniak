@@ -3,11 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Project01.shared.Interfaces;
 
-namespace Projekt01UI.Presenters
+namespace Project01.Core.Services
 {
-    internal class TextAnalyzerService
+    internal class TextAnalyzerService 
     {
-        public TextAnalyzerService() { }
+      
     }
 }
