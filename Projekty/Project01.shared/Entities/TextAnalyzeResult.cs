@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Project01.shared.Entities
 {
-    internal class TextAnalyzeResult
+    public class TextAnalyzeResult
     {
         public string? textLength { get; set; }
         public bool? containsLetters { get; set; }
