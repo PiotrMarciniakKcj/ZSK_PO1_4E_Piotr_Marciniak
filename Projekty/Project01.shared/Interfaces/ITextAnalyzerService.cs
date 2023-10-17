@@ -7,7 +7,7 @@ using Project01.shared.Entities;
 
 namespace Project01.shared.Interfaces
 {
-    internal interface ITextAnalyzerService
+    public interface ITextAnalyzerService
     {
         public TextAnalyzeResult PerformAnalysis(string text);
     }

@@ -7,7 +7,7 @@ using Project01.shared.Interfaces;
 
 namespace Project01.Core.Services
 {
-    internal class TextAnalyzerService 
+    internal class TextAnalyzerService : ITextAnalyzerService
     {
       
     }
