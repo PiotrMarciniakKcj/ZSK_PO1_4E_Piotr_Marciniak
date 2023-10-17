@@ -4,10 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Project01.shared.Entities
+namespace Project1.core.Services
 {
-    internal class TextAnalyzeResult
+    internal class TextAnalyzerService
     {
-       
     }
 }
