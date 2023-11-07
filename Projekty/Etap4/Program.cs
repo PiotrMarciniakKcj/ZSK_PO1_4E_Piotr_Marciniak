@@ -1,4 +1,4 @@
-namespace Projekt01UI
+namespace Etap4
 {
     internal static class Program
     {
